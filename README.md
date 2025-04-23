@@ -28,13 +28,13 @@ Table of Contents
 | [docs/Reflection_And_Challenges.md](./docs/Reflection_And_Challenges.md) | A personal and group reflection on what worked and what didn’t |
 | [docs/Lessons_Learned.md](./docs/Lessons_Learned.md) | Key takeaways and future improvements to the maintenance process |
 
-Credits
+## Credits
 
-Name: Moses Kaluba
-Program: Computer Science
-Topic: Software Maintenance and Testing.
+### Name: Moses Kaluba
+### Program: Computer Science
+### Topic: Software Maintenance and Testing.
 
-My Team: 
-Rayford Kangoji, 
-Ezra M Ngondo, 
-Nephas Kango. 
+## My Team: 
+### Rayford Kangoji, 
+### Ezra M Ngondo, 
+### Nephas Kango. 

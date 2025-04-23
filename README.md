@@ -25,7 +25,7 @@ Table of Contents
 | [docs/Issue_Resolution_Log.md](./docs/Issue_Resolution_Log.md) | Log of all issues handled, including tiers, escalations, and resolution times 
 | [docs/Escalation_Strategy.md](./docs/Escalation_Strategy.md) | How we decided when to escalate and to whom |
 | [docs/Communication_Strategy.md](./docs/Communication_Strategy.md) | Insights into our coordination and communication challenges |
-| [docs/Reflection.md](./docs/Reflection.md) | A personal and group reflection on what worked and what didn’t |
+| [docs/Reflection_And_Challenges.md](./docs/Reflection_And_Challenges.md) | A personal and group reflection on what worked and what didn’t |
 | [docs/Lessons_Learned.md](./docs/Lessons_Learned.md) | Key takeaways and future improvements to the maintenance process |
 
 Credits
